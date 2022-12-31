@@ -5,3 +5,11 @@
 - 📫 How to reach me
 - mkaleeshwaran1995@gmail.com
 
+
+💡Skills💡:
+
+Microsoft SQL Server
+Power BI
+Microsoft Excel
+Python
+
