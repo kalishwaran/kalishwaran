@@ -8,8 +8,13 @@
 
 💡Skills💡:
 
-Microsoft SQL Server
-Power BI
-Microsoft Excel
-Python
+-Microsoft SQL Server
+
+-Power BI
+
+-Microsoft Excel
+
+-Python
+
+
 
