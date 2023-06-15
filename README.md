@@ -10,8 +10,6 @@
 
 -Microsoft SQL Server
 
--Power BI
-
 -Microsoft Excel
 
 -Python
