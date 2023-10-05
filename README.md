@@ -1,7 +1,6 @@
 [![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=xNPReldH&id=063ECF6DC089052DB2D624E6AB1E898E205AEB4C&thid=OIP.xNPReldHH6BM8IBavJAguAHaEY&mediaurl=https%3a%2f%2fwww.netpremacy.com%2fwp-content%2fuploads%2f2020%2f09%2fMachine-Learning-One-Pager-Graphic-Website-Banner.png&exph=1182&expw=2000&q=machine+learning+banner&simid=608030669495943006&FORM=IRPRST&ck=CB8AF2255FF6C3C3D52D6E6DD179CBA1&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kaleeshwaran M</h1>
 <h3 align="center">I am passionate about mathematics, machine learning, deep learning, and natural language processing (NLP)</h3>
-add Right Gif Image
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **passionate mathematics Teacher**
